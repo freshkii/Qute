@@ -1,6 +1,6 @@
 CC = gcc
 
-TARGET := exe
+TARGET := qute
 
 BUILD_DIR := ./build
 SRC_DIRS := ./src
